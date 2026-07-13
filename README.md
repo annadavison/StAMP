@@ -20,10 +20,12 @@ Below you can find a brief description of the files required to run StAMP
 
 **Starting Population Files** The files "Start_younggroups.csv" and "baseline_standardspawnstart.csv" are used at the start of the model to establish the initial population and their conditions. "newadults36.csv" is used in the event StAMP is being used according to the differing adult population trend experiments in order to establish the increasing adult population. "newmort_baselin_sturpop.csv" is the initial population of adult and subadult sturgeon.
 
-* Files/Data Not Included*
+*Files/Data Not Included*
 
-We do not include the files in this repository as they contain sensitive information
-**Spawning_sites.csv** and **Wintering_sites.csv** These contain lat, long coordinate information for the spawning and wintering sites in CRS 4326 as well as the index of the river route just before the site
+We do not include the files in this repository as they contain sensitive information.
+
+**Spawning_sites.csv** and **Wintering_sites.csv** These contain lat, long coordinate information for the spawning and wintering sites in CRS 4326 as well as the index of the river route just before the site.
+
 **Location of the YoY Feeding site** This was included was given within the initialisation of the model itself and contained the same information as for the wintering and spawning sites.
 
 
