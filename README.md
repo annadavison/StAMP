@@ -22,7 +22,7 @@ Below you can find a brief description of the files required to run StAMP
 
 *Files/Data Not Included*
 
-We do not include the files in this repository as they contain sensitive information.
+We do not include the following files/data used for running StAMP in this repository as they contain sensitive information.
 
 **Spawning_sites.csv** and **Wintering_sites.csv** These contain lat, long coordinate information for the spawning and wintering sites in CRS 4326 as well as the index of the river route just before the site.
 
